@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently a college student at the Univeristy of Hawaii at Manoa, looking for job opportunities as I"m in my final semester.
+
+If you see a bunch of weird commits/repos don't worry about them, I'm just trying new things! :')
