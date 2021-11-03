@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **ryotabs/ryotabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a college student at the Univeristy of Hawaii at Manoa, looking for job opportunities as I"m in my final semester.
+I'm currently a college student at the Univeristy of Hawaii at Manoa, looking for job opportunities as I'm in my final semester. I work as a Web Application Developer at the University of Hawaii Information Technology Services department.
 
 If you see a bunch of weird commits/repos don't worry about them, I'm just trying new things! :')
+
+Right now I'm working on..
+* Learning React in-depth
+* Refreshing my knowledge on Spring
+* x86 Assembly (for one of my classes
+
+If you want to reach me, you can contact me at ryota.seki@protonmail.com or ryotabs@hawaii.edu
