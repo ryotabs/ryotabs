@@ -1,4 +1,4 @@
-### Hello! 👋
+### Howzit 🤙
 
 <!--
 **ryotabs/ryotabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,9 @@ If you see a bunch of weird commits/repos don't worry about them, I'm just tryin
 Right now I'm working on..
 * Learning React in-depth
 * Refreshing my knowledge on Spring
-* x86 Assembly (for one of my classes
+* x86 Assembly (for one of my classes)
+* Python data science stuff (pandas, matplotlib, etc)
 
-If you want to reach me, you can contact me at ryota.seki@protonmail.com or ryotabs@hawaii.edu
+If you want to reach me, you can contact me at:
+* ryota.seki@protonmail.com 📫
+* ryotabs@hawaii.edu 📫
