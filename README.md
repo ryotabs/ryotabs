@@ -1,5 +1,3 @@
-### Howzit 🤙
-
 <!--
 **ryotabs/ryotabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm currently a college student at the Univeristy of Hawaii at Manoa, looking for job opportunities as I'm in my final semester. I work as a Web Application Developer at the University of Hawaii Information Technology Services department.
-
-Right now I'm working on..
-* x86 Assembly (for one of my classes)
-* Python data science stuff (pandas, matplotlib, etc)
+I'm currently looking for entry-level full-stack or front-end/back-end positions that use React/Node or Spring. I'm trying to learn Next.js along with all the other technologies associated with it (React, Mongo, Node). I'm also trying to make my first open-source contribution.
 
 If you want to reach me, you can contact me at:
 * ryota.seki@protonmail.com 📫
