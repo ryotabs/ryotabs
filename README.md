@@ -12,8 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently looking for entry-level full-stack or front-end/back-end positions that use React/Node or Spring. I'm trying to learn Next.js along with all the other technologies associated with it (React, Mongo, Node). I'm also trying to make my first open-source contribution.
-
-If you want to reach me, you can contact me at:
-* ryota.seki@protonmail.com 📫
-* ryotabs@hawaii.edu 📫
+I'm not too active on GitHub at the moment as my organization currently uses Bitbucket. If you'd like to reach me, you can send me an email at ryotabs@hawaii.edu
